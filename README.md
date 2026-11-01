@@ -1,4 +1,4 @@
-# ai-checker-bench
+# gauntlet
 
 How Well Do AI Code Checkers Catch Bugs? A Benchmark of Pre-Merge Verification Tools on Agent-Generated Code.
 
