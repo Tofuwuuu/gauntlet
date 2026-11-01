@@ -1,0 +1,1 @@
+{"patch_id": "sv-0001", "source": "susvibes", "repo": "owner/name", "language": "python", "diff_path": "patches/sv-0001.diff", "is_buggy": true, "bug_type": "missing_input_check", "cwe": "CWE-20"}
