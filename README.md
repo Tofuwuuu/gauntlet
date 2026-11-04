@@ -1,5 +1,5 @@
 # gauntlet
 
-How Well Do AI Code Checkers Catch Bugs? A Benchmark of Pre-Merge Verification Tools on Agent-Generated Code.
+How well do AI code checkers catch bugs? A benchmark of pre-merge verification tools on code written by agents.
 
-Thesis work in progress. Chapter 1 is in `docs/`, and the patch label and results formats are in `schema/`.
+My thesis, still in progress. Chapter 1 is in `docs/`. The formats for patch labels and results are in `schema/`.
